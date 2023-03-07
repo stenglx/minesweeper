@@ -23,3 +23,4 @@ pip3 install numpy
 ## Change grid sizes and solvers
 
 - the main.py class contains comments for various sizes and solver which can be uncommented and commented as you wish for testing.
+- if you want only one game run or more you can alter the variable nr_of_games
