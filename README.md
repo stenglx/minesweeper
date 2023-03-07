@@ -7,7 +7,7 @@ sudo apt install python3
 
 - install z3
 
-pip3 install –user z3-solver
+pip3 install z3-solver
 
 - install numpy
 
