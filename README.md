@@ -21,8 +21,9 @@ pip3 install numpy
 
 ## Run the program
 
-- go to folder final_submission (e.g. cd final_submission) if you downloaded from Moodle
-or if you got it from GitHub etc go into the directory you saved the files into such that main.py is in the same hierarchical subdirectory.
+- if you clone from Github go into the folder minesweeper
+- if you downloaded from Moodle go into the downloaded folder (final_submission or final_submission_unzipped)
+
 - run python3 main.py
 
 
