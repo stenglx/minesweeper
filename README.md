@@ -1,9 +1,14 @@
 # minesweeper
 for the course IntroAI
+I couldn't test on fresh ubuntu but this should be all needed commands to get the application running
 
 - install python3 
 
 sudo apt install python3
+
+- install pip3
+
+sudo apt install python3-pip
 
 - install z3
 
